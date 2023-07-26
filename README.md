@@ -32,11 +32,11 @@ Download the files from the repo and install on domain. Should work instantly.
 
 This is a responsive website that presents a timed quiz over with questions about JavaScript.
 
-Link to view: [My JS Password Generator](https://pgold762.github.io/jsPasswordGenerator/)
+Link to view: [Timed Quiz](https://pgold762.github.io/TimedQuiz/)
 
 Screenshot of website: 
 
-![My JS Password Generator](./assets/images/jspassword-generator.png "JS Password Generator")
+![Timed Quiz](./assets/images/timed-quiz.png "Timed Quiz")
 
 ## Credits
 
